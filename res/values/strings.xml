@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, MotoActivity!</string>
+    <string name="app_name">Moto</string>
+    <string name="marcha">marcha</string>
+    <string name="velocidade">velocidade</string>
+    <string name="rpm">rpm</string>
+
+</resources>
